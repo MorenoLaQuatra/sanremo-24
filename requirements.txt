@@ -1,0 +1,4 @@
+spacy
+matplotlib
+wordcloud
+it_core_news_sm
